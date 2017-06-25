@@ -1,0 +1,1 @@
+{"version":3,"sources":["build/js/script.js"],"names":["container","document","querySelector","nav","button","classList","remove","addEventListener","toggle"],"mappings":"AAAA,GAAIA,WAAYC,SAASC,cAAc,eACnCC,IAAMF,SAASC,cAAc,aAC7BE,OAAQH,SAASC,cAAc,qBACnCF,WAAUK,UAAUC,OAAO,SAC3BF,OAAOG,iBAAiB,QAAQ,WAC9BJ,IAAIE,UAAUG,OAAO,mBACrBJ,OAAOC,UAAUG,OAAO","file":"script.js.map"}

@@ -1,0 +1,1 @@
+var container=document.querySelector(".header-top"),nav=document.querySelector(".nav-list"),button=document.querySelector(".navigation-button");container.classList.remove("no-js"),button.addEventListener("click",function(){nav.classList.toggle("nav-list--hided"),button.classList.toggle("navigation-button--closed")});
